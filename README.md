@@ -7,6 +7,7 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/akib6momin/LeetcodeQues/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/akib6momin/LeetcodeQues/tree/master/2073-time-needed-to-buy-tickets) |
 ## Math
 |  |
 | ------- |
@@ -19,8 +20,10 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/akib6momin/LeetcodeQues/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/akib6momin/LeetcodeQues/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/akib6momin/LeetcodeQues/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/akib6momin/LeetcodeQues/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
