@@ -54,16 +54,36 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akib6momin/LeetcodeQues/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akib6momin/LeetcodeQues/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akib6momin/LeetcodeQues/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Tree
 |  |
 | ------- |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akib6momin/LeetcodeQues/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Hash Table
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Binary Lifting
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## DP on Trees
+|  |
+| ------- |
+| [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 <!---LeetCode Topics End-->
