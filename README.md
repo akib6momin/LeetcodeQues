@@ -53,6 +53,7 @@ Contains All My Leetcode Questions
 ## Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/akib6momin/LeetcodeQues/tree/master/0450-delete-node-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akib6momin/LeetcodeQues/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Depth-First Search
@@ -68,6 +69,7 @@ Contains All My Leetcode Questions
 ## Binary Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/akib6momin/LeetcodeQues/tree/master/0450-delete-node-in-a-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akib6momin/LeetcodeQues/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Hash Table
@@ -86,4 +88,8 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0450-delete-node-in-a-bst](https://github.com/akib6momin/LeetcodeQues/tree/master/0450-delete-node-in-a-bst) |
 <!---LeetCode Topics End-->
