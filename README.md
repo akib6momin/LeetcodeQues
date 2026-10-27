@@ -9,6 +9,7 @@ Contains All My Leetcode Questions
 | [0042-trapping-rain-water](https://github.com/akib6momin/LeetcodeQues/tree/master/0042-trapping-rain-water) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akib6momin/LeetcodeQues/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/akib6momin/LeetcodeQues/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akib6momin/LeetcodeQues/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/akib6momin/LeetcodeQues/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/akib6momin/LeetcodeQues/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/akib6momin/LeetcodeQues/tree/master/2073-time-needed-to-buy-tickets) |
@@ -95,4 +96,12 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/akib6momin/LeetcodeQues/tree/master/0450-delete-node-in-a-bst) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akib6momin/LeetcodeQues/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akib6momin/LeetcodeQues/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
