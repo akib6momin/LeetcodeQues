@@ -10,6 +10,7 @@ Contains All My Leetcode Questions
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akib6momin/LeetcodeQues/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/akib6momin/LeetcodeQues/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akib6momin/LeetcodeQues/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/akib6momin/LeetcodeQues/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/akib6momin/LeetcodeQues/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/akib6momin/LeetcodeQues/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/akib6momin/LeetcodeQues/tree/master/2073-time-needed-to-buy-tickets) |
@@ -17,6 +18,7 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akib6momin/LeetcodeQues/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1512-number-of-good-pairs](https://github.com/akib6momin/LeetcodeQues/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/akib6momin/LeetcodeQues/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/akib6momin/LeetcodeQues/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2409-count-days-spent-together](https://github.com/akib6momin/LeetcodeQues/tree/master/2409-count-days-spent-together) |
@@ -80,6 +82,7 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1512-number-of-good-pairs](https://github.com/akib6momin/LeetcodeQues/tree/master/1512-number-of-good-pairs) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -104,4 +107,8 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akib6momin/LeetcodeQues/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/akib6momin/LeetcodeQues/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
