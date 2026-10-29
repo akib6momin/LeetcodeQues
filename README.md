@@ -11,6 +11,7 @@ Contains All My Leetcode Questions
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/akib6momin/LeetcodeQues/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akib6momin/LeetcodeQues/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/akib6momin/LeetcodeQues/tree/master/1512-number-of-good-pairs) |
+| [1572-matrix-diagonal-sum](https://github.com/akib6momin/LeetcodeQues/tree/master/1572-matrix-diagonal-sum) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/akib6momin/LeetcodeQues/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/akib6momin/LeetcodeQues/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/akib6momin/LeetcodeQues/tree/master/2073-time-needed-to-buy-tickets) |
@@ -111,4 +112,8 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/akib6momin/LeetcodeQues/tree/master/1512-number-of-good-pairs) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/akib6momin/LeetcodeQues/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
