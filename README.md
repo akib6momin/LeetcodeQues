@@ -12,6 +12,7 @@ Contains All My Leetcode Questions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akib6momin/LeetcodeQues/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/akib6momin/LeetcodeQues/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/akib6momin/LeetcodeQues/tree/master/1572-matrix-diagonal-sum) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/akib6momin/LeetcodeQues/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/akib6momin/LeetcodeQues/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/akib6momin/LeetcodeQues/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/akib6momin/LeetcodeQues/tree/master/2073-time-needed-to-buy-tickets) |
@@ -40,6 +41,7 @@ Contains All My Leetcode Questions
 ## String
 |  |
 | ------- |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/akib6momin/LeetcodeQues/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2409-count-days-spent-together](https://github.com/akib6momin/LeetcodeQues/tree/master/2409-count-days-spent-together) |
 ## Two Pointers
 |  |
@@ -49,6 +51,7 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akib6momin/LeetcodeQues/tree/master/0042-trapping-rain-water) |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/akib6momin/LeetcodeQues/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Stack
 |  |
 | ------- |
@@ -116,4 +119,8 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [1572-matrix-diagonal-sum](https://github.com/akib6momin/LeetcodeQues/tree/master/1572-matrix-diagonal-sum) |
+## Greedy
+|  |
+| ------- |
+| [1578-minimum-time-to-make-rope-colorful](https://github.com/akib6momin/LeetcodeQues/tree/master/1578-minimum-time-to-make-rope-colorful) |
 <!---LeetCode Topics End-->
