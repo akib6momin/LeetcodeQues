@@ -7,6 +7,7 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akib6momin/LeetcodeQues/tree/master/0042-trapping-rain-water) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/akib6momin/LeetcodeQues/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0605-can-place-flowers](https://github.com/akib6momin/LeetcodeQues/tree/master/0605-can-place-flowers) |
 | [0733-flood-fill](https://github.com/akib6momin/LeetcodeQues/tree/master/0733-flood-fill) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akib6momin/LeetcodeQues/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -21,6 +22,7 @@ Contains All My Leetcode Questions
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/akib6momin/LeetcodeQues/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akib6momin/LeetcodeQues/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/akib6momin/LeetcodeQues/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/akib6momin/LeetcodeQues/tree/master/1822-sign-of-the-product-of-an-array) |
