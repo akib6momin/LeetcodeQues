@@ -76,12 +76,14 @@ Contains All My Leetcode Questions
 ## Depth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/akib6momin/LeetcodeQues/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akib6momin/LeetcodeQues/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/akib6momin/LeetcodeQues/tree/master/0733-flood-fill) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/akib6momin/LeetcodeQues/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akib6momin/LeetcodeQues/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/akib6momin/LeetcodeQues/tree/master/0733-flood-fill) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -139,4 +141,12 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/akib6momin/LeetcodeQues/tree/master/0724-find-pivot-index) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/akib6momin/LeetcodeQues/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/akib6momin/LeetcodeQues/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
