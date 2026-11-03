@@ -22,6 +22,7 @@ Contains All My Leetcode Questions
 | [1822-sign-of-the-product-of-an-array](https://github.com/akib6momin/LeetcodeQues/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/akib6momin/LeetcodeQues/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/akib6momin/LeetcodeQues/tree/master/2073-time-needed-to-buy-tickets) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/akib6momin/LeetcodeQues/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Contains All My Leetcode Questions
 | [1822-sign-of-the-product-of-an-array](https://github.com/akib6momin/LeetcodeQues/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/akib6momin/LeetcodeQues/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2409-count-days-spent-together](https://github.com/akib6momin/LeetcodeQues/tree/master/2409-count-days-spent-together) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/akib6momin/LeetcodeQues/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Recursion
 |  |
 | ------- |
