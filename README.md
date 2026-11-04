@@ -85,6 +85,7 @@ Contains All My Leetcode Questions
 | [0547-number-of-provinces](https://github.com/akib6momin/LeetcodeQues/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akib6momin/LeetcodeQues/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/akib6momin/LeetcodeQues/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/akib6momin/LeetcodeQues/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/akib6momin/LeetcodeQues/tree/master/0797-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Breadth-First Search
@@ -95,6 +96,7 @@ Contains All My Leetcode Questions
 | [0547-number-of-provinces](https://github.com/akib6momin/LeetcodeQues/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akib6momin/LeetcodeQues/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/akib6momin/LeetcodeQues/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/akib6momin/LeetcodeQues/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/akib6momin/LeetcodeQues/tree/master/0797-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 ## Binary Tree
@@ -159,10 +161,12 @@ Contains All My Leetcode Questions
 | [0130-surrounded-regions](https://github.com/akib6momin/LeetcodeQues/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/akib6momin/LeetcodeQues/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/akib6momin/LeetcodeQues/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/akib6momin/LeetcodeQues/tree/master/0785-is-graph-bipartite) |
 ## Graph Theory
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/akib6momin/LeetcodeQues/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/akib6momin/LeetcodeQues/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/akib6momin/LeetcodeQues/tree/master/0797-all-paths-from-source-to-target) |
 ## Backtracking
 |  |
@@ -172,4 +176,12 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/akib6momin/LeetcodeQues/tree/master/0797-all-paths-from-source-to-target) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/akib6momin/LeetcodeQues/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/akib6momin/LeetcodeQues/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
