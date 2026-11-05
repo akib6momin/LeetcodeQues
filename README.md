@@ -90,6 +90,7 @@ Contains All My Leetcode Questions
 | [0785-is-graph-bipartite](https://github.com/akib6momin/LeetcodeQues/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/akib6momin/LeetcodeQues/tree/master/0797-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [1192-critical-connections-in-a-network](https://github.com/akib6momin/LeetcodeQues/tree/master/1192-critical-connections-in-a-network) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -172,6 +173,7 @@ Contains All My Leetcode Questions
 | [0547-number-of-provinces](https://github.com/akib6momin/LeetcodeQues/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/akib6momin/LeetcodeQues/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/akib6momin/LeetcodeQues/tree/master/0797-all-paths-from-source-to-target) |
+| [1192-critical-connections-in-a-network](https://github.com/akib6momin/LeetcodeQues/tree/master/1192-critical-connections-in-a-network) |
 ## Backtracking
 |  |
 | ------- |
@@ -188,4 +190,12 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/akib6momin/LeetcodeQues/tree/master/0785-is-graph-bipartite) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/akib6momin/LeetcodeQues/tree/master/1192-critical-connections-in-a-network) |
+## Bridge (Graph)
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/akib6momin/LeetcodeQues/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
