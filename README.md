@@ -16,6 +16,7 @@ Contains All My Leetcode Questions
 | [0733-flood-fill](https://github.com/akib6momin/LeetcodeQues/tree/master/0733-flood-fill) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akib6momin/LeetcodeQues/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/akib6momin/LeetcodeQues/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/akib6momin/LeetcodeQues/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akib6momin/LeetcodeQues/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/akib6momin/LeetcodeQues/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/akib6momin/LeetcodeQues/tree/master/1572-matrix-diagonal-sum) |
@@ -58,6 +59,7 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akib6momin/LeetcodeQues/tree/master/0042-trapping-rain-water) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/akib6momin/LeetcodeQues/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -126,10 +128,12 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/akib6momin/LeetcodeQues/tree/master/0450-delete-node-in-a-bst) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/akib6momin/LeetcodeQues/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/akib6momin/LeetcodeQues/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/akib6momin/LeetcodeQues/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akib6momin/LeetcodeQues/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
