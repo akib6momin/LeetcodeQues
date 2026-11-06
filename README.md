@@ -91,6 +91,7 @@ Contains All My Leetcode Questions
 | [0797-all-paths-from-source-to-target](https://github.com/akib6momin/LeetcodeQues/tree/master/0797-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1192-critical-connections-in-a-network](https://github.com/akib6momin/LeetcodeQues/tree/master/1192-critical-connections-in-a-network) |
+| [2360-longest-cycle-in-a-graph](https://github.com/akib6momin/LeetcodeQues/tree/master/2360-longest-cycle-in-a-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -102,6 +103,7 @@ Contains All My Leetcode Questions
 | [0785-is-graph-bipartite](https://github.com/akib6momin/LeetcodeQues/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/akib6momin/LeetcodeQues/tree/master/0797-all-paths-from-source-to-target) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [2360-longest-cycle-in-a-graph](https://github.com/akib6momin/LeetcodeQues/tree/master/2360-longest-cycle-in-a-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -174,6 +176,7 @@ Contains All My Leetcode Questions
 | [0785-is-graph-bipartite](https://github.com/akib6momin/LeetcodeQues/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/akib6momin/LeetcodeQues/tree/master/0797-all-paths-from-source-to-target) |
 | [1192-critical-connections-in-a-network](https://github.com/akib6momin/LeetcodeQues/tree/master/1192-critical-connections-in-a-network) |
+| [2360-longest-cycle-in-a-graph](https://github.com/akib6momin/LeetcodeQues/tree/master/2360-longest-cycle-in-a-graph) |
 ## Backtracking
 |  |
 | ------- |
@@ -198,4 +201,16 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/akib6momin/LeetcodeQues/tree/master/1192-critical-connections-in-a-network) |
+## Topological Sort
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/akib6momin/LeetcodeQues/tree/master/2360-longest-cycle-in-a-graph) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/akib6momin/LeetcodeQues/tree/master/2360-longest-cycle-in-a-graph) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [2360-longest-cycle-in-a-graph](https://github.com/akib6momin/LeetcodeQues/tree/master/2360-longest-cycle-in-a-graph) |
 <!---LeetCode Topics End-->
