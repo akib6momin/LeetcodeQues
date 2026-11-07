@@ -9,6 +9,7 @@ Contains All My Leetcode Questions
 | [0042-trapping-rain-water](https://github.com/akib6momin/LeetcodeQues/tree/master/0042-trapping-rain-water) |
 | [0130-surrounded-regions](https://github.com/akib6momin/LeetcodeQues/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/akib6momin/LeetcodeQues/tree/master/0200-number-of-islands) |
+| [0410-split-array-largest-sum](https://github.com/akib6momin/LeetcodeQues/tree/master/0410-split-array-largest-sum) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/akib6momin/LeetcodeQues/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/akib6momin/LeetcodeQues/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0542-01-matrix](https://github.com/akib6momin/LeetcodeQues/tree/master/0542-01-matrix) |
@@ -65,6 +66,7 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akib6momin/LeetcodeQues/tree/master/0042-trapping-rain-water) |
+| [0410-split-array-largest-sum](https://github.com/akib6momin/LeetcodeQues/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/akib6momin/LeetcodeQues/tree/master/0542-01-matrix) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/akib6momin/LeetcodeQues/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Stack
@@ -133,6 +135,7 @@ Contains All My Leetcode Questions
 ## Binary Search Tree
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/akib6momin/LeetcodeQues/tree/master/0410-split-array-largest-sum) |
 | [0450-delete-node-in-a-bst](https://github.com/akib6momin/LeetcodeQues/tree/master/0450-delete-node-in-a-bst) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/akib6momin/LeetcodeQues/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
@@ -160,11 +163,13 @@ Contains All My Leetcode Questions
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/akib6momin/LeetcodeQues/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/akib6momin/LeetcodeQues/tree/master/0605-can-place-flowers) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/akib6momin/LeetcodeQues/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/akib6momin/LeetcodeQues/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/akib6momin/LeetcodeQues/tree/master/0724-find-pivot-index) |
 ## Union-Find
 |  |
