@@ -11,6 +11,7 @@ Contains All My Leetcode Questions
 | [0200-number-of-islands](https://github.com/akib6momin/LeetcodeQues/tree/master/0200-number-of-islands) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/akib6momin/LeetcodeQues/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/akib6momin/LeetcodeQues/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0542-01-matrix](https://github.com/akib6momin/LeetcodeQues/tree/master/0542-01-matrix) |
 | [0605-can-place-flowers](https://github.com/akib6momin/LeetcodeQues/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/akib6momin/LeetcodeQues/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/akib6momin/LeetcodeQues/tree/master/0733-flood-fill) |
@@ -64,6 +65,7 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/akib6momin/LeetcodeQues/tree/master/0042-trapping-rain-water) |
+| [0542-01-matrix](https://github.com/akib6momin/LeetcodeQues/tree/master/0542-01-matrix) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/akib6momin/LeetcodeQues/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Stack
 |  |
@@ -97,6 +99,7 @@ Contains All My Leetcode Questions
 | ------- |
 | [0130-surrounded-regions](https://github.com/akib6momin/LeetcodeQues/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/akib6momin/LeetcodeQues/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/akib6momin/LeetcodeQues/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/akib6momin/LeetcodeQues/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/akib6momin/LeetcodeQues/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0733-flood-fill](https://github.com/akib6momin/LeetcodeQues/tree/master/0733-flood-fill) |
@@ -151,6 +154,7 @@ Contains All My Leetcode Questions
 | ------- |
 | [0130-surrounded-regions](https://github.com/akib6momin/LeetcodeQues/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/akib6momin/LeetcodeQues/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/akib6momin/LeetcodeQues/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/akib6momin/LeetcodeQues/tree/master/0733-flood-fill) |
 | [1572-matrix-diagonal-sum](https://github.com/akib6momin/LeetcodeQues/tree/master/1572-matrix-diagonal-sum) |
 ## Greedy
