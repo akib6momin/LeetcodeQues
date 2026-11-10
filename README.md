@@ -57,6 +57,7 @@ Contains All My Leetcode Questions
 ## String
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/akib6momin/LeetcodeQues/tree/master/0127-word-ladder) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/akib6momin/LeetcodeQues/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2409-count-days-spent-together](https://github.com/akib6momin/LeetcodeQues/tree/master/2409-count-days-spent-together) |
 ## Two Pointers
@@ -102,6 +103,7 @@ Contains All My Leetcode Questions
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/akib6momin/LeetcodeQues/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/akib6momin/LeetcodeQues/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/akib6momin/LeetcodeQues/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/akib6momin/LeetcodeQues/tree/master/0542-01-matrix) |
@@ -124,6 +126,7 @@ Contains All My Leetcode Questions
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/akib6momin/LeetcodeQues/tree/master/0127-word-ladder) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1512-number-of-good-pairs](https://github.com/akib6momin/LeetcodeQues/tree/master/1512-number-of-good-pairs) |
 ## Binary Lifting
@@ -231,4 +234,8 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [2360-longest-cycle-in-a-graph](https://github.com/akib6momin/LeetcodeQues/tree/master/2360-longest-cycle-in-a-graph) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/akib6momin/LeetcodeQues/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
