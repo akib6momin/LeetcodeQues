@@ -72,6 +72,7 @@ Contains All My Leetcode Questions
 | [0042-trapping-rain-water](https://github.com/akib6momin/LeetcodeQues/tree/master/0042-trapping-rain-water) |
 | [0410-split-array-largest-sum](https://github.com/akib6momin/LeetcodeQues/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/akib6momin/LeetcodeQues/tree/master/0542-01-matrix) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/akib6momin/LeetcodeQues/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Stack
 |  |
@@ -114,6 +115,7 @@ Contains All My Leetcode Questions
 | [0785-is-graph-bipartite](https://github.com/akib6momin/LeetcodeQues/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/akib6momin/LeetcodeQues/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/akib6momin/LeetcodeQues/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0909-snakes-and-ladders](https://github.com/akib6momin/LeetcodeQues/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/akib6momin/LeetcodeQues/tree/master/0994-rotting-oranges) |
@@ -199,6 +201,7 @@ Contains All My Leetcode Questions
 | [0785-is-graph-bipartite](https://github.com/akib6momin/LeetcodeQues/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/akib6momin/LeetcodeQues/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/akib6momin/LeetcodeQues/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1192-critical-connections-in-a-network](https://github.com/akib6momin/LeetcodeQues/tree/master/1192-critical-connections-in-a-network) |
 | [2360-longest-cycle-in-a-graph](https://github.com/akib6momin/LeetcodeQues/tree/master/2360-longest-cycle-in-a-graph) |
 ## Backtracking
@@ -241,4 +244,12 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/akib6momin/LeetcodeQues/tree/master/0127-word-ladder) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
