@@ -60,6 +60,7 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/akib6momin/LeetcodeQues/tree/master/0127-word-ladder) |
+| [0290-word-pattern](https://github.com/akib6momin/LeetcodeQues/tree/master/0290-word-pattern) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/akib6momin/LeetcodeQues/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/akib6momin/LeetcodeQues/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 | [2409-count-days-spent-together](https://github.com/akib6momin/LeetcodeQues/tree/master/2409-count-days-spent-together) |
@@ -139,6 +140,7 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/akib6momin/LeetcodeQues/tree/master/0127-word-ladder) |
+| [0290-word-pattern](https://github.com/akib6momin/LeetcodeQues/tree/master/0290-word-pattern) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1512-number-of-good-pairs](https://github.com/akib6momin/LeetcodeQues/tree/master/1512-number-of-good-pairs) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/akib6momin/LeetcodeQues/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
