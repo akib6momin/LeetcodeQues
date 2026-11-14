@@ -30,6 +30,7 @@ Contains All My Leetcode Questions
 | [1823-find-the-winner-of-the-circular-game](https://github.com/akib6momin/LeetcodeQues/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/akib6momin/LeetcodeQues/tree/master/2073-time-needed-to-buy-tickets) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/akib6momin/LeetcodeQues/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [3364-minimum-positive-sum-subarray](https://github.com/akib6momin/LeetcodeQues/tree/master/3364-minimum-positive-sum-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/akib6momin/LeetcodeQues/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Math
 |  |
@@ -198,6 +199,7 @@ Contains All My Leetcode Questions
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/akib6momin/LeetcodeQues/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/akib6momin/LeetcodeQues/tree/master/0724-find-pivot-index) |
+| [3364-minimum-positive-sum-subarray](https://github.com/akib6momin/LeetcodeQues/tree/master/3364-minimum-positive-sum-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -275,4 +277,8 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Sliding Window
+|  |
+| ------- |
+| [3364-minimum-positive-sum-subarray](https://github.com/akib6momin/LeetcodeQues/tree/master/3364-minimum-positive-sum-subarray) |
 <!---LeetCode Topics End-->
