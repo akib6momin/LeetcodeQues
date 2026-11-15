@@ -26,6 +26,7 @@ Contains All My Leetcode Questions
 | [1512-number-of-good-pairs](https://github.com/akib6momin/LeetcodeQues/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/akib6momin/LeetcodeQues/tree/master/1572-matrix-diagonal-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/akib6momin/LeetcodeQues/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1748-sum-of-unique-elements](https://github.com/akib6momin/LeetcodeQues/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/akib6momin/LeetcodeQues/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/akib6momin/LeetcodeQues/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/akib6momin/LeetcodeQues/tree/master/2073-time-needed-to-buy-tickets) |
@@ -144,6 +145,7 @@ Contains All My Leetcode Questions
 | [0290-word-pattern](https://github.com/akib6momin/LeetcodeQues/tree/master/0290-word-pattern) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/akib6momin/LeetcodeQues/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1512-number-of-good-pairs](https://github.com/akib6momin/LeetcodeQues/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/akib6momin/LeetcodeQues/tree/master/1748-sum-of-unique-elements) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/akib6momin/LeetcodeQues/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
 ## Binary Lifting
 |  |
@@ -177,6 +179,7 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/akib6momin/LeetcodeQues/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/akib6momin/LeetcodeQues/tree/master/1748-sum-of-unique-elements) |
 ## Matrix
 |  |
 | ------- |
