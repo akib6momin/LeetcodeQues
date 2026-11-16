@@ -58,6 +58,7 @@ Contains All My Leetcode Questions
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/akib6momin/LeetcodeQues/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/akib6momin/LeetcodeQues/tree/master/2073-time-needed-to-buy-tickets) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/akib6momin/LeetcodeQues/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ Contains All My Leetcode Questions
 | [0290-word-pattern](https://github.com/akib6momin/LeetcodeQues/tree/master/0290-word-pattern) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/akib6momin/LeetcodeQues/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2115-find-all-possible-recipes-from-given-supplies](https://github.com/akib6momin/LeetcodeQues/tree/master/2115-find-all-possible-recipes-from-given-supplies) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/akib6momin/LeetcodeQues/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/akib6momin/LeetcodeQues/tree/master/2409-count-days-spent-together) |
 ## Two Pointers
 |  |
