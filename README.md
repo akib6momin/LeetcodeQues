@@ -19,6 +19,7 @@ Contains All My Leetcode Questions
 | [0909-snakes-and-ladders](https://github.com/akib6momin/LeetcodeQues/tree/master/0909-snakes-and-ladders) |
 | [0941-valid-mountain-array](https://github.com/akib6momin/LeetcodeQues/tree/master/0941-valid-mountain-array) |
 | [0994-rotting-oranges](https://github.com/akib6momin/LeetcodeQues/tree/master/0994-rotting-oranges) |
+| [1051-height-checker](https://github.com/akib6momin/LeetcodeQues/tree/master/1051-height-checker) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/akib6momin/LeetcodeQues/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/akib6momin/LeetcodeQues/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/akib6momin/LeetcodeQues/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -176,6 +177,7 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/akib6momin/LeetcodeQues/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [1051-height-checker](https://github.com/akib6momin/LeetcodeQues/tree/master/1051-height-checker) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/akib6momin/LeetcodeQues/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/akib6momin/LeetcodeQues/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -295,4 +297,12 @@ Contains All My Leetcode Questions
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/akib6momin/LeetcodeQues/tree/master/3364-minimum-positive-sum-subarray) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/akib6momin/LeetcodeQues/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/akib6momin/LeetcodeQues/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
